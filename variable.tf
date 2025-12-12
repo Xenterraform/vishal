@@ -1,0 +1,4 @@
+variable "xen" {
+    type = "string"
+  
+}
