@@ -1,4 +1,4 @@
 variable "xen" {
-    type = "string"
+    type = "suresh"
   
 }
