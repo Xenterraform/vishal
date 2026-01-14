@@ -1,4 +1,0 @@
-variable "jerry" {
-    type = map()
-  
-}
