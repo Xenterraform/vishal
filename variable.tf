@@ -1,4 +1,0 @@
-variable "xen" {
-    type = "suresh"
-  
-}
